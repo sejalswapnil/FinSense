@@ -9,9 +9,9 @@ FinSense is a small NLP project. You paste a financial news article or paragraph
 
 ## Team
 
-| Name | Reg. No. | GitHub |
-|------|----------|--------|
-|  |  |  |
+NAME-Sejal Swapnil
+REG NO.-23FE10CDS00460
+
 
 Instructor: `<instructor-github-username>` (collaborator). See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for who did what.
 
